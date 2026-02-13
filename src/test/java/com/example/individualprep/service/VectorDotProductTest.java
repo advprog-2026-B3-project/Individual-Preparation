@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class VectorUtilityTest {
+class VectorDotProductTest {
 
     private final VectorUtility vectorUtility = new VectorUtility();
 
