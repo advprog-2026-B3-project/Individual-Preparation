@@ -16,8 +16,11 @@ public class VectorUtility {
     }
 
     public double[] multiply(double[] v1, int x) {
-        // TODO: Implement me properly!
-        return new double[] { 0.0, 0.0, 0.0 };
+        double[] res = new double[v1.length];
+        for (int i = 0; i < v1.length; i++) {
+            res[i] = x * v1[i];
+        }
+        return res;
     }
     
     public double dotProduct(double[] v1, double[] v2) {
