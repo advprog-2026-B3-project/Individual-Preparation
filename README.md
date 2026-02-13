@@ -2,7 +2,7 @@
 
 Anggota:
 
-Muhammad Satria Aleka Ramadhan / 
+Muhammad Satria Aleka Ramadhan / 2306245094
 
 Vincentius Filbert Amadeo / 
 
