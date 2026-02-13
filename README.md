@@ -4,7 +4,7 @@ Anggota:
 
 Muhammad Satria Aleka Ramadhan / 2306245094
 
-Vincentius Filbert Amadeo / 
+Vincentius Filbert Amadeo / 2406351711
 
 Alya Nabilla Khamil / 2406358094
 
